@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kathleensun.github.io</id>
     <title>KKtalks</title>
-    <updated>2021-09-29T10:29:01.623Z</updated>
+    <updated>2021-09-29T12:38:24.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kathleensun.github.io"/>
     <link rel="self" href="https://kathleensun.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://kathleensun.github.io/images/avatar.png</logo>
     <icon>https://kathleensun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, KKtalks</rights>
+    <entry>
+        <title type="html"><![CDATA[飞书妙记——赞叹不已]]></title>
+        <id>https://kathleensun.github.io/feishmiaoji/</id>
+        <link href="https://kathleensun.github.io/feishmiaoji/">
+        </link>
+        <updated>2021-09-29T12:32:54.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[飞书文档 团队效率工具]]></title>
         <id>https://kathleensun.github.io/YeWs5AGsI/</id>
