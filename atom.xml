@@ -1,33 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://kathleensun.github.io</id>
     <title>KKtalks</title>
-    <updated>2021-09-29T12:59:01.302Z</updated>
+    <updated>2021-11-03T04:15:22.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://kathleensun.github.io"/>
+    <link rel="self" href="https://kathleensun.github.io/atom.xml"/>
     <subtitle>不写，就无法思考</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://kathleensun.github.io/images/avatar.png</logo>
+    <icon>https://kathleensun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, KKtalks</rights>
     <entry>
+        <title type="html"><![CDATA[读书笔记《心流—最优体验心理学》]]></title>
+        <id>https://kathleensun.github.io/J76oaMwPN/</id>
+        <link href="https://kathleensun.github.io/J76oaMwPN/">
+        </link>
+        <updated>2021-11-03T04:08:12.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://kathleensun.github.io/post-images/1635912531008.jpg" alt="" loading="lazy"></figure>
+<p>作者：米哈里·契克森米哈赖<br>
+豆瓣评分：8.2</p>
+<p>是否值得一读？—— 我觉得看完这篇笔记就可以了，毕竟关于心灵和人生的部分，我觉得还是应该留给宗教，科学在这方面的讨论，都是“讲大道理”。说心流是“快乐的源泉”——这就有点太夸张了。</p>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://kathleensun.github.io/post-images/1635912531008.jpg" alt="" loading="lazy"></figure>
+<p>作者：米哈里·契克森米哈赖<br>
+豆瓣评分：8.2</p>
+<p>是否值得一读？—— 我觉得看完这篇笔记就可以了，毕竟关于心灵和人生的部分，我觉得还是应该留给宗教，科学在这方面的讨论，都是“讲大道理”。说心流是“快乐的源泉”——这就有点太夸张了。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[飞书妙记——赞叹不已]]></title>
-        <id>http://localhost:4000/feishmiaoji/</id>
-        <link href="http://localhost:4000/feishmiaoji/">
+        <id>https://kathleensun.github.io/feishmiaoji/</id>
+        <link href="https://kathleensun.github.io/feishmiaoji/">
         </link>
         <updated>2021-09-29T12:32:54.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[飞书文档 团队效率工具]]></title>
-        <id>http://localhost:4000/YeWs5AGsI/</id>
-        <link href="http://localhost:4000/YeWs5AGsI/">
+        <id>https://kathleensun.github.io/YeWs5AGsI/</id>
+        <link href="https://kathleensun.github.io/YeWs5AGsI/">
         </link>
         <updated>2021-09-28T10:06:37.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/hello-gridea/</id>
-        <link href="http://localhost:4000/hello-gridea/">
+        <id>https://kathleensun.github.io/hello-gridea/</id>
+        <link href="https://kathleensun.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
