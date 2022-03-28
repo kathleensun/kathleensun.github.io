@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kathleensun.github.io</id>
     <title>KKtalks</title>
-    <updated>2021-11-03T04:25:01.866Z</updated>
+    <updated>2022-03-28T09:24:27.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kathleensun.github.io"/>
     <link rel="self" href="https://kathleensun.github.io/atom.xml"/>
     <subtitle>不写，就无法思考</subtitle>
     <logo>https://kathleensun.github.io/images/avatar.png</logo>
     <icon>https://kathleensun.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, KKtalks</rights>
+    <rights>All rights reserved 2022, KKtalks</rights>
+    <entry>
+        <title type="html"><![CDATA[KKTalks：No.001 英语阅读全程解决方案]]></title>
+        <id>https://kathleensun.github.io/tNhhlnbSU/</id>
+        <link href="https://kathleensun.github.io/tNhhlnbSU/">
+        </link>
+        <updated>2022-03-28T09:22:03.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读书笔记《心流—最优体验心理学》]]></title>
         <id>https://kathleensun.github.io/J76oaMwPN/</id>
