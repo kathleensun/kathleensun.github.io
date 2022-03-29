@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kathleensun.github.io</id>
     <title>KKtalks</title>
-    <updated>2022-03-28T09:25:59.474Z</updated>
+    <updated>2022-03-29T01:21:38.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kathleensun.github.io"/>
     <link rel="self" href="https://kathleensun.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://kathleensun.github.io/images/avatar.png</logo>
     <icon>https://kathleensun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, KKtalks</rights>
+    <entry>
+        <title type="html"><![CDATA[KKTalks 周刊 #002 命运的礼物]]></title>
+        <id>https://kathleensun.github.io/Jire-UdeS/</id>
+        <link href="https://kathleensun.github.io/Jire-UdeS/">
+        </link>
+        <updated>2022-03-29T01:18:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是 KKTalks newsletter 第 2 期，欢迎你的订阅，可以第一时间收到更新推送。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是 KKTalks newsletter 第 2 期，欢迎你的订阅，可以第一时间收到更新推送。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KKTalks：No.001 英语阅读全程解决方案]]></title>
         <id>https://kathleensun.github.io/tNhhlnbSU/</id>
